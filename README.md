@@ -163,6 +163,32 @@ This section describes the database structure, API endpoints, authentication/val
 
 
 
+![](https://github.com/abelsam-coder/repo/blob/main/document/code.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/files.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/follow_unfollow.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/get_post.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/home_page.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/loading_effect.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/login_page.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/registration_page.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/search_post.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/profile+page.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/upload_page.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/upload_sample.png?raw=true)
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/xammp.png?raw=true)
+
 ![](https://github.com/abelsam-coder/repo/blob/main/document/profile_edit_page.png?raw=true)
   
 ```javascript
