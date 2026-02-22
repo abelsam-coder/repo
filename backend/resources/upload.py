@@ -1,7 +1,7 @@
 from flask_restful import Resource
 from flask import request,render_template,make_response,session,redirect,flash
-from models import User,Posts,Profile
-from extensions import bcrypt,db
+from backend.models import User,Posts,Profile
+from backend.extensions import bcrypt,db
 from sqlalchemy.exc import IntegrityError
 import os
 from werkzeug.utils import secure_filename
