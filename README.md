@@ -249,8 +249,7 @@ tiktok-clone/
 |   ├─files.png
 └─ config.py
 
-
-![](https://github.com/abelsam-coder/repo/blob/main/document/code.png)
+![](https://github.com/abelsam-coder/repo/blob/main/document/profile_edit_page.png?raw=true)
 
 
 
