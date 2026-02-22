@@ -1,9 +1,9 @@
 from flask_restful import Resource
 from flask import session,redirect,make_response,render_template,request
-from models import Followers,Posts,Profile,User
+from backend.models import Followers,Posts,Profile,User
 from werkzeug.utils import secure_filename
 import os
-from extensions import db
+from backend.extensions import db
 
 class Profile_info(Resource):
        def get(self):
