@@ -239,7 +239,7 @@ tiktok-clone/
 |   ├─loading_effect.png
 |   ├─login_page.png
 |   ├─profile_edit_page.png
-|   ├─profile+page.png
+|   ├─profile_page.png
 |   ├─registration_page.png
 |   ├─search_post.png
 |   ├─upload_page.png
