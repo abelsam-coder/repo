@@ -1,10 +1,10 @@
 from flask import Flask,redirect,url_for,render_template,request,session
-from config import Config
-from extensions import db,create_api,bcrypt
+from backend.config import Config
+from backend.extensions import db,create_api,bcrypt
 from flask_migrate import Migrate
 from flask_socketio import SocketIO,emit
-from routes.routes import routes
-from models import Followers
+from backend.routes.routes import routes
+from backend.models import Followers
 
 app=Flask(__name__,template_folder="../frontend",static_folder='../upload', static_url_path='/upload')
 app.config.from_object(Config)
