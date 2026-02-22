@@ -250,7 +250,7 @@ tiktok-clone/
 └─ config.py
 
 
-![]('https://github.com/abelsam-coder/repo/blob/main/document/code.png?raw=true')
+![](https://github.com/abelsam-coder/repo/blob/main/document/code.png?raw=true)
 
 
 
