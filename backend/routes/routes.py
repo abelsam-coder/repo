@@ -1,5 +1,5 @@
-from resources import user
-from resources import upload,home,profile
+from backend.resources import user
+from backend.resources import upload,home,profile
 
 
 def routes(api):
