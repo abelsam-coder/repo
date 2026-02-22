@@ -161,6 +161,10 @@ This section describes the database structure, API endpoints, authentication/val
 - Follow/Unfollow handled via Socket.IO
 - Updates follow button dynamically without page reload
 
+
+
+![](https://github.com/abelsam-coder/repo/blob/main/document/profile_edit_page.png?raw=true)
+  
 ```javascript
 const followBtn = document.getElementById("followBtn");
 if(followBtn){
@@ -249,7 +253,7 @@ tiktok-clone/
 |   ├─files.png
 └─ config.py
 
-![](https://github.com/abelsam-coder/repo/blob/main/document/profile_edit_page.png?raw=true)
+
 
 
 
